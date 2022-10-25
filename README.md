@@ -1,1 +1,3 @@
-# embeddings_extractor_dcase_2022_task2
+# DCASE2022 Task 2 Embeddings Extractor
+
+Code and embeddings will be soon available.
